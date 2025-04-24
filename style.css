@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hay{
+    background-color: rgb(140, 154, 139);
+}
+
+.alo{
+    background-color: rgb(156, 109, 65);
+}
+.qale{
+    background-color: brown;
+}
+.ibi{
+    background-color: rgb(255, 160, 18);
+}
+.ochkora{
+    background-color: rgb(81, 78, 78);
+}
+
+.sariq{
+    background-color: yellow;
+}
+.yashil{
+    background-color: rgb(6, 255, 6);
+}
+
+.kok{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+
+
+img{
+    width: 40px; height:25px
+    
+}
+caption{
+    background-color: aqua;
+}
+td{
+    border: 1px solid black; text-align: center;
+}
+
+table{
+    border: 1px solid black; text-align: center; 
+}
